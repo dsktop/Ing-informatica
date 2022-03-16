@@ -7,12 +7,16 @@ rut|nombre  rut| dir    rut|email
              1 | casa2   1 |correo2
                          1 |correo3
                          
-+-----------------------------------------------+ 
+
 modelo de datos:
 "Un cliente puede tener muchas facturas pero una factura es solo de un cliente"
 
 
 
 
+
 +-----------------------------------------------+ 
-clase 16-03-2022
+
++------------------+ 
+| clase 16-03-2022 |
++------------------+ 
