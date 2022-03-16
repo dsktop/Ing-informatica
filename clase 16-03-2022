@@ -1,0 +1,10 @@
+modelo conceptual: 
+se necesita el:                      rut=clave forenea
+
+CLIENTE      DIR        EMAIL
+rut|nombre  rut| dir    rut|email
+1  | juan    1 | casa1   1 |correo1
+             1 | casa2   1 |correo2
+                         1 |correo3
+                         
++-----------------------------------------------+
