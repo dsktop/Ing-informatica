@@ -9,7 +9,8 @@ rut|nombre  rut| dir    rut|email
                          
 +-----------------------------------------------+ 
 modelo de datos:
-"Un cliente puede tener muchas facturas pero una factura pertenece solo a un cliente"
+"Un cliente puede tener muchas facturas pero una factura es solo de un cliente"
+
 
 
 
