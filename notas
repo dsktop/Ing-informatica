@@ -7,4 +7,11 @@ rut|nombre  rut| dir    rut|email
              1 | casa2   1 |correo2
                          1 |correo3
                          
-+-----------------------------------------------+ clase 16-03-2022.
++-----------------------------------------------+ 
+modelo de datos:
+"Un cliente puede tener muchas facturas pero una factura pertenece solo a un cliente"
+
+
+
++-----------------------------------------------+ 
+clase 16-03-2022
