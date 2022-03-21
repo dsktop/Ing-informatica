@@ -1,4 +1,6 @@
-modelo conceptual: 
+clase 16-03-2022
+
+modelo conceptual:  
 se necesita el:                      rut=clave forenea
 
 CLIENTE      DIR        EMAIL
@@ -7,18 +9,23 @@ rut|nombre  rut| dir    rut|email
              1 | casa2   1 |correo2
                          1 |correo3
                          
-+-----------------------------------------------+ 
+
 
 modelo de datos:
 "Un cliente puede tener muchas facturas pero una factura es solo de un cliente"
 
 +-----------------------------------------------+ 
 
-       
+clase 21-03-2022
+
+Datos
+
+Caja negra: entrada, proceso y salida de datos.
+Politica de negocio
+Modelo de negocio
+Regla de negocio
+                                                                                                                        
 
 
 
 
-+------------------+ 
-| clase 16-03-2022 |
-+------------------+ 
