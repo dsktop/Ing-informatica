@@ -20,10 +20,23 @@ clase 21-03-2022
 
 Datos
 
-Caja negra: entrada, proceso y salida de datos.
-Politica de negocio
-Modelo de negocio
-Regla de negocio
+Caja Nega: entrada, proceso y salida de datos.
+
+Politica de negocio.
+Modelo de negocio.
+Reglas de negocio.
+
+CREATE TABLE 
+
+Integridad Referencial:
+Indenpendencia Referencial
+Clave Extendida: foreen key
+Memoria electronica: RAM
+Memoria Secundaria: Discos duro.
+
+PK: Integridad es un dato que es unico y no se puede repetir.
+
+Select * from cliente
                                                                                                                         
 
 
