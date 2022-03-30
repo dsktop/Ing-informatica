@@ -22,8 +22,8 @@ Datos
 
 Caja Nega: entrada, proceso y salida de datos.
 
-Politica de negocio.
-Modelo de negocio.
+Politica de negocio: Es lo que nosotros como negocio tenemos que hacer, osea si vendemos vino, vino vendemos.
+Modelo de negocio: Como queremos posicionar el negocio, osea...que nos diferencia del resto (Dar una propuesta de valor)
 Reglas de negocio.
 
 CREATE TABLE 
